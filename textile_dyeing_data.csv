@@ -1,0 +1,13 @@
+Dye_Type,Water_Consumption,Chemical_Emissions,Energy_Usage,Cost_Per_Kg,Color_Fastness
+Natural,150,20,5,3.5,8
+Synthetic,300,80,15,2.8,9
+Natural,120,15,6,4.2,7
+Synthetic,400,100,20,2.0,8
+Natural,180,25,10,3.8,8
+Synthetic,350,90,18,2.5,7
+Natural,130,10,7,4.5,9
+Synthetic,320,85,12,2.2,9
+Natural,140,18,8,3.9,7
+Synthetic,310,95,17,2.3,8
+Natural,160,22,9,3.6,8
+Synthetic,280,75,14,2.7,7
